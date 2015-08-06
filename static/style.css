@@ -1,0 +1,49 @@
+body 
+{
+	background-image: url("plain-brown.jpg");
+}
+button{
+	border-radius: 6px;
+	border-color: red;
+}
+.sub{
+	border-radius: 6px;
+	background-color: white;
+	border-color: gray;
+	border-bottom-style: double;
+	height: 40px;
+}
+
+.main 
+{
+    width: 500px;
+    margin: auto;
+}
+
+form input[type=text] 
+{
+    width: 100%;
+    margin-top: 5px;
+    line-height: 30px;
+    border-color: black;
+    border-radius: 5px;
+    border-spacing: 2px;
+}
+
+form input[type=submit] 
+{
+    margin-top: 15px;
+    position: relative;
+    float: right;
+}
+
+.create-student-section
+{
+	margin-top: 175px;
+}
+
+.form-title
+{
+	font-color: blue;
+	font-size: 40px;
+}
